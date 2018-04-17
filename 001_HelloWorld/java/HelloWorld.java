@@ -2,7 +2,7 @@
  * How to compile:
  * javac HelloWorld.java
  *
- * How to compile:
+ * How to run:
  * java HelloWorld
  */
 public class HelloWorld {
